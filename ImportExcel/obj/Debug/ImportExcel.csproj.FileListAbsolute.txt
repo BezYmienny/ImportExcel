@@ -1,0 +1,14 @@
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Form1.resources
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Properties.Resources.resources
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.GenerateResource.Cache
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe.config
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ImportExcel.pdb
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ExcelDataReader.dll
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ExcelDataReader.xml
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Piotr\source\repos\ImportExcel\ImportExcel\bin\Debug\ExcelDataReader.DataSet.xml
